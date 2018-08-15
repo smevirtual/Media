@@ -1,0 +1,18 @@
+{
+  "name": "@smevirtual/media",
+  "version": "0.0.0",
+  "description": "General media source files for use within the SME Virtual Network.",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://www.smevirtual.com/",
+  "author": "SME Virtual Network Contributors <open@smevirtual.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smevirtual/media.git"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.x"
+  }
+}

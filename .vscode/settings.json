@@ -1,0 +1,16 @@
+{
+  "tslint.packageManager": "yarn",
+  "npm.packageManager": "yarn",
+  "files.autoSave": "onFocusChange",
+  "editor.rulers": [80, 120],
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "eslint.packageManager": "yarn",
+  "html.format.enable": false,
+  "files.associations": {
+    "yarn.lock": "yaml"
+  },
+  "eslint.autoFixOnSave": true
+}
