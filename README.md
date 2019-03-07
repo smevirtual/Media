@@ -2,7 +2,7 @@
 
 All **general** image, audio and video source files which are used in multiple
 places within the SME Virtual Network (as opposed being attached to single
-SME Virtual Network project).
+SME Virtual Network project) and for SME Virtual Chapters.
 
 This repository only contains the media **source files** (e.g. Adobe Illustrator files, Sketch
 files, Adobe After Effects files, GIMP files...etc.). Distributable media files
