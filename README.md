@@ -71,5 +71,6 @@ product, or service to which they correspond.**
 
 ## License
 
-The contents of this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-A copy of this license is included in the root of this repository.
+The creative works in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+All source code is available under the terms of the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/).

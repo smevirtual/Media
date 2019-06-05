@@ -1,18 +1,23 @@
 {
   "name": "@smevirtual/media",
-  "version": "0.0.0",
-  "description": "General media source files for use within the SME Virtual Network.",
   "private": true,
-  "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://www.smevirtual.com/",
-  "author": "SME Virtual Network Contributors <open@smevirtual.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/smevirtual/media.git"
+  "scripts": {
+    "postinstall": "ts-node jigs-bootstrap.ts"
   },
-  "scripts": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.0.4",
+    "git-hooks-plus": "^1.0.1",
+    "hasbin": "^1.2.3",
+    "prettier": "^1.17.1",
+    "storyboard": "^3.1.4",
+    "storyboard-preset-console": "^3.1.4",
+    "ts-node": "^8.2.0",
+    "tslint": "^5.17.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "typescript": "^3.5.1"
+  },
   "engines": {
-    "node": ">=8.x"
+    "node": "10.x"
   }
 }
