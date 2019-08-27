@@ -2,11 +2,10 @@
   "name": "@smevirtual/media",
   "private": true,
   "scripts": {
-    "postinstall": "ts-node jigs-bootstrap.ts"
+    "postinstall": "ts-node bootstrap.ts"
   },
   "devDependencies": {
     "@types/node": "^12.0.4",
-    "git-hooks-plus": "^1.0.1",
     "hasbin": "^1.2.3",
     "prettier": "^1.17.1",
     "storyboard": "^3.1.4",
@@ -18,6 +17,6 @@
     "typescript": "^3.5.1"
   },
   "engines": {
-    "node": "10.x"
+    "node": ">=10.x"
   }
 }
